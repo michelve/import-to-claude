@@ -43,3 +43,10 @@ A **"Manage memory"** dialog will appear showing all the personal context Claude
 ---
 
 You are all set - Claude is now ready with your context.
+
+---
+
+## Resources
+
+- [Claude Import Memory](https://claude.com/import-memory) — Official Claude page to start the memory import process
+- [prompt.md](./prompt.md) — The prompt to paste into ChatGPT or Gemini
