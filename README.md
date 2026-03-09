@@ -18,7 +18,7 @@ A pop-up will appear with a prewritten prompt to copy.
 
 Copy the prompt provided by Claude and paste it into a new chat on the platform you are migrating from (e.g. ChatGPT or Gemini).
 
-The prompt is also available here: [prompt.md](./IMPORT_PROMPT.md)
+The prompt is also available here: [IMPORT_PROMPT.md](./IMPORT_PROMPT.md)
 
 ---
 
